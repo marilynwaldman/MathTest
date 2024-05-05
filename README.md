@@ -1,7 +1,9 @@
 # MathTest
 
-input: question bank:  /data/questions2
-output;  Two tables:
+Input: question bank:  /data/questions2
+
+
+Output:  Two tables:
 
 1.  dfgrades - a gradebook - list of questons with the answers and responses
 2.  dfanswers - a listing of responses from student in the order that they were answered.
